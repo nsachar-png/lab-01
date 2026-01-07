@@ -15,6 +15,8 @@ public class Cat extends Pet implements Pettable{
 
     @Override
     public void Pet() {
+        system.out.println("You pet the cat");
+        return null;
 
     }
 }
