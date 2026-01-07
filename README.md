@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `<Naval>`
+- **CCID:** `<1801949>`
 
 ## References and Resources
 
