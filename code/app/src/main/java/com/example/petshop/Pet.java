@@ -1,35 +1,37 @@
 package com.example.petshop;
 
-import java.Util.Date;
+import java.util.Date;
+
 public abstract class Pet {
-    Private String name;
-    Private Date birthDate;
+     String name;
+     Date birthDate;
 
     public Pet(String name) {
         this.name = name;
-        this.birthDate = new Date():
+        this.birthDate = new Date();
     }
 
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public Date getBirthDate() {
+        return birthDate;
+    }
+
+    public void setBirthDate(Date birthDate) {
+        this.birthDate = birthDate;
+    }
 
     public Pet(String name, Date birthDate) {
         this.name = name;
         this.birthDate = birthDate;
     }
 //generated code
-    public Private getString() {
-        return String;
-    }
 
-    public void setString(Private string) {
-        String = string;
-    }
-
-    public Private getDate() {
-        return Date;
-    }
-
-    public void setDate(Private date) {
-        Date = date;
-    }
     public abstract String speak();
 }

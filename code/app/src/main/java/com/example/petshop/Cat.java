@@ -12,12 +12,9 @@ public class Cat extends Pet implements Pettable{
     public String speak() {
         return "meow";
     }
-    public Cat(String name, Date birthdate) {
-        super(name, birthDate);
-    }
 
     @Override
     public void Pet() {
-        
+
     }
 }

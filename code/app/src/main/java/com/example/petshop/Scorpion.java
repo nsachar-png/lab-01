@@ -9,10 +9,12 @@ public class Scorpion extends Pet{
     }
 
     public Scorpion (String name, Date birthDate) {
-        super(name, birthDate)
-    }
-    public Scorpion(String name, Date birthdate) {
         super(name, birthDate);
     }
+
+    @Override
+    public String speak() {
+        return "hiss";
+    }
 }
-}
+

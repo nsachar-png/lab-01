@@ -23,18 +23,18 @@ public class MainActivity extends AppCompatActivity {
             return insets;
         });
 
-        Cat Cat = new Cat ("Lucy");
-        Dog dog = new Dog (name "Snoopy");
-        Scorpion Scorpion = new Scorpion (name "Scorponks");
+        Cat cat = new Cat ("Lucy");
+        Dog dog = new Dog ( "Snoopy");
+        Scorpion scorpion = new Scorpion ( "Scorponks");
 
-        ArrayList<Pet> petList = new ArrayList<>():
+        ArrayList<Pet> petList = new ArrayList<>();
         petList.add(cat);
         petList.add(dog);
         petList.add(scorpion);
 
-        ArrayList<Pettable> pettablePets = new ArrayList<>():
-        pettablePets.add(cat):
-        pettablePets.add(dog):
+        ArrayList<Pettable> pettablePets = new ArrayList<>();
+        pettablePets.add(cat);
+        pettablePets.add(dog);
 //        pettablePet.add(scorpion)
     }
 }
