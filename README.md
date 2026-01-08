@@ -1,15 +1,15 @@
 # CMPUT 301: Lab 1 Participation Exercise
 
-## Student Details
+## Student Details:
 
 - **Full Name:** `<Naval>`
 - **CCID:** `<1801949>`
 
-## References and Resources
+## References and Resources:
 
-List any resources used here, or simply put `N/A` if not applicable.
+N/A
 
-## Verbal Collaboration
+## Verbal Collaboration:
 
 | Student Name |    CCID   |
 | ------------ | --------- |
