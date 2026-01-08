@@ -35,6 +35,6 @@ public class MainActivity extends AppCompatActivity {
         ArrayList<Pettable> pettablePets = new ArrayList<>();
         pettablePets.add(cat);
         pettablePets.add(dog);
-//        pettablePet.add(scorpion)
+        // pettablePets.add(scorpion);
     }
 }

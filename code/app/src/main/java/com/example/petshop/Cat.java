@@ -8,15 +8,18 @@ public class Cat extends Pet implements Pettable{
         super(name);
     }
 
+    public Cat (String name, Date birthdate) {
+        super(name, birthDate);
+    }
+
     @Override
     public String speak() {
         return "meow";
     }
 
     @Override
-    public void Pet() {
-        system.out.println("You pet the cat");
+    public Void Pet() {
+        System.out.println("You pet the cat");
         return null;
-
     }
 }
