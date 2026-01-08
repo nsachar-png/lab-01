@@ -1,4 +1,4 @@
-# CMPUT 301 : Lab 1 Participation Exercise
+# CMPUT 301: Lab 1 Participation Exercise
 
 ## Student Details
 
@@ -11,7 +11,7 @@ List any resources used here, or simply put `N/A` if not applicable.
 
 ## Verbal Collaboration
 
-| Student Name | CCID      |
+| Student Name |    CCID   |
 | ------------ | --------- |
-| `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
+| `N/A`        | `N/A`     |
+| `N/A`        | `N/A`     |
