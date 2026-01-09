@@ -17,8 +17,7 @@ public class Dog extends Pet implements Pettable {
     }
 
     @Override
-    public Void pet() {  // Fixed method name and return type
+    public void pet() {  // Fixed method name and return type
         System.out.println("you pet the dog");
-        return null;
     }
 }

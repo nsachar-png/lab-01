@@ -18,8 +18,7 @@ public class Cat extends Pet implements Pettable{
     }
 
     @Override
-    public Void pet() {  // Fixed method name to lowercase
+    public void pet() {  // Fixed method name to lowercase
         System.out.println("You pet the cat");
-        return null;
     }
 }
