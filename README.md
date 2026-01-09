@@ -7,7 +7,7 @@
 
 ## References and Resources:
 
-N/A
+I used ChatGPT (generative AI) to double-check my completed work by reviewing my code and double-checking the various lab requirements for this lab. I made the final decisions and edits myself, using its feedback as the only verification tool.
 
 ## Verbal Collaboration:
 
