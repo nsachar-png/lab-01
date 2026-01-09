@@ -8,7 +8,7 @@ public class Cat extends Pet implements Pettable{
         super(name);
     }
 
-    public Cat (String name, Date birthdate) {
+    public Cat (String name, Date birthDate) {  // Fixed parameter name
         super(name, birthDate);
     }
 
@@ -18,7 +18,7 @@ public class Cat extends Pet implements Pettable{
     }
 
     @Override
-    public Void Pet() {
+    public Void pet() {  // Fixed method name to lowercase
         System.out.println("You pet the cat");
         return null;
     }
